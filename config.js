@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰
 global.owner = [
-  ['593993684821', 'GataBot-MD 💖🐈', true],
+  ['3541673218', 'EllocobrayanBot 😈', true],
   ['593968585383'],
   ['51941819582'],
   ['51930583082'],
@@ -71,8 +71,8 @@ global.APIKeys = { // APIKey Here
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '🐈 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = 'EllocobrayanBot 😈'
+global.author = 'Brayan Bot'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -82,7 +82,7 @@ global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
 global.vs = '1.1.8'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = 'Ellocobrayan Bot'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
@@ -134,8 +134,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 | 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = Ellocobrayan Bot | Ellocobrayan Bot'
+global.igfg = 'EllocobrayanBot'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
